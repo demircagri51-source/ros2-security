@@ -1,0 +1,13 @@
+# ROS2 Workspace
+build/
+install/
+log/
+
+# Python and OS files
+__pycache__/
+*.pyc
+.DS_Store
+
+# Rosbag recordings (Too large for GitHub)
+*.db3
+rosbag2*/
